@@ -3,7 +3,11 @@
 
 -👀 I’m passionate about creating web applications.
 
--🌱 I’m currently learning Tailwind CSS and improving my full-stack development skills.
+-💻 My current skills:
+
+**Frontend**: Next.js, React.js, Redux Toolkit, Material UI, Bootstrap, Formik, Tailwind CSS (learning)
+**Backend**: Node.js, Express.js, MongoDB
+**State Management**: Redux Toolkit
 
 -💞️ I’m looking to collaborate on exciting web projects and innovative digital solutions.
 
